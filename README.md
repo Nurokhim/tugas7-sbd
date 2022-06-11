@@ -47,6 +47,29 @@
 
 ![image](https://user-images.githubusercontent.com/101801920/173199097-7f36f31b-d6fe-442a-88e9-528ec1d76491.png)
 
+4.Data file Dokter
+
+![image](https://user-images.githubusercontent.com/101801920/173199185-d7ad0c3d-eb06-44e8-a2bd-f303a82b7c06.png)
+
+![image](https://user-images.githubusercontent.com/101801920/173199271-ccb39e11-30f2-4f93-af27-f680f945ac2f.png)
+
+![image](https://user-images.githubusercontent.com/101801920/173199301-d9e074b1-31bb-4e27-84ce-12a5a23433a9.png)
+
+![image](https://user-images.githubusercontent.com/101801920/173199345-2eedb220-5de5-469f-93af-80d7acfcb5c8.png)
+
+5.Data fle berobat
+
+![image](https://user-images.githubusercontent.com/101801920/173199465-23329a53-b5c1-43e3-b4bb-8ce5b37392b6.png)
+
+![image](https://user-images.githubusercontent.com/101801920/173199555-6f8692d1-4b03-4ced-978f-fed9b77d47ff.png)
+
+![image](https://user-images.githubusercontent.com/101801920/173199574-24d9af6a-6bbf-4a72-b1a8-7e76db17de39.png)
+
+![Uploading image.png…]()
+
+6. Data file Resep_Obat
+7. 
+
 
 
 
